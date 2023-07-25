@@ -1,1 +1,1 @@
-web: gunicorn nextlevel2023.wsgi
+web: gunicorn nextlevel.wsgi
