@@ -34,7 +34,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["nextlevel2023.herokuapp.com", "localhost",'8000-mahsak89-nextlevel-1mw2wwre1ha.ws-eu102.gitpod.io']
+ALLOWED_HOSTS = ["nextlevel2023-d26a1b09da9b.herokuapp.com", "localhost",'8000-mahsak89-nextlevel-1mw2wwre1ha.ws-eu102.gitpod.io']
 
 
 # Application definition
