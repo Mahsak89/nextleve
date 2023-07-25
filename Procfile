@@ -1,0 +1,1 @@
+web: gunicorn nextlevel2023.wsgi
